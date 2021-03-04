@@ -1,0 +1,5 @@
+[package]
+name = "binary_set"
+version = "0.1.0"
+authors = ["aidos9 <20310468+aidos9@users.noreply.github.com>"]
+edition = "2018"
